@@ -5,5 +5,8 @@ At the end of the quiz their score will be displayed and an option to save their
 
 # Screenshot
 
+![Alt text](image.png)
+
 # Link to working GitHub page
 
+https://alexanderlocke.github.io/alocke-code-quiz/
