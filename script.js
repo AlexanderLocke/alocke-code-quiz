@@ -82,7 +82,7 @@ function endQuiz() {
     clearInterval(timerInterval);
 
     quizContainer.style.display = ""; //Hides the quiz container
-    highscoreContainer.style.display = "block"; //Dispalys the highscores
+    highscoreContainer.style.display = "block"; //Displays the highscores
 
     resultElement.textContent = `Your Score: ` + score;
 
