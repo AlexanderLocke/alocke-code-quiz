@@ -3,7 +3,7 @@ A coding quiz made for the UNH coding bootcamp. When the user starts the quiz, a
 
 At the end of the quiz their score will be displayed and an option to save their high-score will be available. (WIP)
 
-#Screenshot
+# Screenshot
 
-#Link to working GitHub page
+# Link to working GitHub page
 
